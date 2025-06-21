@@ -1,0 +1,42 @@
+[
+    {
+        "country_name": "Ukraine",
+        "population": "41 million",
+        "area_km2": "603628",
+        "race": 1,
+        "presidents": 6,
+        "wars": 2
+    },
+    {
+        "country_name": "USA",
+        "population": "331 million",
+        "area_km2": "9833517",
+        "race": 2,
+        "presidents": 46,
+        "wars": 10
+    },
+    {
+        "country_name": "Germany",
+        "population": "83 million",
+        "area_km2": "357022",
+        "race": 3,
+        "presidents": 12,
+        "wars": 3
+    },
+    {
+        "country_name": "Japan",
+        "population": "125 million",
+        "area_km2": "377975",
+        "race": 4,
+        "presidents": 64,
+        "wars": 1
+    },
+    {
+        "country_name": "Brazil",
+        "population": "213 million",
+        "area_km2": "8515767",
+        "race": 5,
+        "presidents": 38,
+        "wars": 0
+    }
+]
